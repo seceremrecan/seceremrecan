@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.pinimg.com/564x/2a/76/46/2a76462e0bb851adafbf3c90accf3c0f.jpg" alt="MasterHead"   width="300" />
-</div>
+
 <h1>Hi 👋, I'm Emre</h1>
 <h3>A Computer Science student who improves himself</h3>
 
