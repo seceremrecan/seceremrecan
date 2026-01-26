@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Emre
-**Cybersecurity & Junior Backend Development** 
+**Cybersecurity & Junior Software Developer** 
 
 
 </div>
