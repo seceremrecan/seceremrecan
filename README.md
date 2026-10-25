@@ -10,17 +10,7 @@ I focus on software quality assurance, manual and automated testing, API testing
 
 I also have a background in Python development, REST APIs, and database-driven applications.
 
-<a href="mailto:seceremrecan@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" height="45" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/emrecansecer">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="45" height="45" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/seceremrecan">
-  <img src="https://cdn.simpleicons.org/github/8B949E" width="45" height="45" alt="GitHub"/>
-</a>
+
 
 </div>
 
